@@ -1,0 +1,31 @@
+.wporg-chart-block {
+	width: 100%;
+}
+
+.wporg-chart-block__card {
+	min-height: 400px;
+}
+
+.wporg-chart-block__actions label {
+	margin-right: 0.5rem;
+	font-size: 14px;
+}
+
+.wporg-chart-block__notes {
+	margin-left: 24px;
+	padding-top: 8px;
+	font-size: 13px;
+}
+
+.wporg-chart-block__notes ul {
+	margin: 0;
+	padding: 1rem;
+}
+
+.wporg-chart-block__notes__toggle {
+	font-size: 13px;
+	color: #666;
+}
+
+
+/*# sourceMappingURL=frontend.css.map*/
